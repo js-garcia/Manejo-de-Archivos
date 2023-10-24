@@ -1,0 +1,21 @@
+[
+    {
+    "title": "Oso Benito",
+    "description": "Muñeco tejido en crochet",
+    "price": 3500,
+    "thumbnail":"gs://ecommerce-amineko.appspot.com/Images-Amineko/Benito.jpg",
+    "code": 201,
+    "stock":10,
+    "id": 900
+},
+
+{
+    "title": "Coneja Malvina",
+    "description":"Muñeco tejido en crochet",
+    "price" : 3500,
+    "thumbnail": "gs://ecommerce-amineko.appspot.com/Images-Amineko/Malvina.jpg",
+    "code": 202,
+    "stock":8,
+    "id": 901
+}
+]
